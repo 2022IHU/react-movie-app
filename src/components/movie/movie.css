@@ -1,0 +1,18 @@
+.title {
+  margin: 0;
+  color: #fff;
+  height: 19.5px;
+  margin: 5px 0px 5px;
+  overflow: hidden;
+  font-weight: lighter;
+  text-align: center;
+}
+.rating {
+  margin: 0;
+  color: gold;
+  height: 19.5px;
+  margin: 5px 0px 5px;
+  overflow: hidden;
+  font-weight: lighter;
+  text-align: center;
+}

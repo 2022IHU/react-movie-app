@@ -1,0 +1,12 @@
+.nav-container {
+  display: flex;
+  position: absolute;
+}
+
+a {
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+  text-decoration: none;
+}
